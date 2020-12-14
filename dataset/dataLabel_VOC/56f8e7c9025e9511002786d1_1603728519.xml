@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>56f8e7c9025e9511002786d1</folder>
+	<filename>56f8e7c9025e9511002786d1_1603728519.jpg</filename>
+	<path>E:\doAnCuoiKiML\label\56f8e7c9025e9511002786d1\56f8e7c9025e9511002786d1_1603728519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>244</ymin>
+			<xmax>461</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
