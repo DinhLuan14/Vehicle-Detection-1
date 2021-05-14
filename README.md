@@ -1,5 +1,5 @@
 # Vehicle Detection using YOLOv3
-Đồ án môn Học máy Thống kê - Trường ĐH Công nghệ Thông tin - ĐHQG HCM
+Đồ án môn Học máy Thống kê - Trường ĐH Công nghệ Thông tin - ĐHQG TPHCM
 
 ## SOURCE CODE
 - File *ObjectDetectionYOLOv3.ipynb* được sử dụng để setup và chạy mô hình Yolov3 trên colab.
