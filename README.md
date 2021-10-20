@@ -1,5 +1,5 @@
 # Vehicle Detection using YOLOv3
-
+# using GPU detection vehicle
 
 ## SOURCE CODE
 - File *ObjectDetectionYOLOv3.ipynb* được sử dụng để setup và chạy mô hình Yolov3 trên colab.
